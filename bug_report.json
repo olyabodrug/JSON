@@ -1,1 +1,11 @@
+{
+  "Severity": "Not a bug",
+  "Title": "The menu title [Professional Traders] cannot be clicked",
+  "Steps": "STR: 1. Navigate to capital.com 2. Select  one of the licenses FCA, CYSEC, ASIC 3. Select EN language  4. Click on the  menu section [Ways to trade] 5. Click on the menu title [Professional Traders]",
+  "Expected Result": "The menu title [Professional Traders]  click is available",
+  "Actual Result": "The menu title [Professional Traders] cannot be clicked",
+  "License": "FCA, CYSEC, ASIC",
+  "Role (unregistered, unauthorized, authorized, All)": "All",
+  "Telegram @nick Bug started": "@Olga_username1"
+}
 
